@@ -24,7 +24,7 @@ Recall (Sensitivity): This number represents the percentage of people who are hi
 - Precision: 1%
 - Recall: 65%
 
-![naive](link here)
+![naive](https://github.com/SG314159/Credit_Risk_Analysis/blob/main/images/naive.PNG)
 
 ## Sampling Technique 2: SMOTE Oversampling
 
@@ -32,7 +32,7 @@ Recall (Sensitivity): This number represents the percentage of people who are hi
 - Precision: 1%
 - Recall: 63%
 
-![smote](link here)
+![smote](https://github.com/SG314159/Credit_Risk_Analysis/blob/main/images/smote.PNG)
 
 ## Sampling Technique 3: Cluster Centroids Undersampling
 
@@ -40,7 +40,7 @@ Recall (Sensitivity): This number represents the percentage of people who are hi
 - Precision: 1%
 - Recall: 57%
 
-![cluster](link here)
+![cluster](https://github.com/SG314159/Credit_Risk_Analysis/blob/main/images/under.PNG)
 
 ## Sampling Technique 4: Combination Over-sampling and Under-sampling
 
@@ -48,7 +48,7 @@ Recall (Sensitivity): This number represents the percentage of people who are hi
 - Precision: 1%
 - Recall: 81%
 
-![combo](link here)
+![combo](https://github.com/SG314159/Credit_Risk_Analysis/blob/main/images/combo.PNG)
 
 ## Ensemble Technique 1: Balanced Random Forest Classifier and an Easy Ensemble AdaBoost 
 
@@ -56,7 +56,7 @@ Recall (Sensitivity): This number represents the percentage of people who are hi
 - Precision: 5%
 - Recall: 50%
 
-![randomForest](link here)
+![randomForest](https://github.com/SG314159/Credit_Risk_Analysis/blob/main/images/randomForest.PNG)
 
 ## Ensemble Technique 2: Easy Ensemble AdaBoost Classifier  
 
@@ -64,7 +64,7 @@ Recall (Sensitivity): This number represents the percentage of people who are hi
 - Precision: 5%
 - Recall: 93%
 
-![adaBoost](link here)
+![adaBoost](https://github.com/SG314159/Credit_Risk_Analysis/blob/main/images/adaBoost.PNG)
 
 
 
